@@ -7,7 +7,6 @@
     "pages/answerErr/index",
     "pages/answerInfo/index",
     "pages/result/index",
-    "pages/logs/logs",
     "pages/analysis/index",
     "pages/wrong/index",
     "pages/wrongAnswer/index",
